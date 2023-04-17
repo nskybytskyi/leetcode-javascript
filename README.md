@@ -5,7 +5,7 @@ Title | Solution | Acceptance | Difficulty
 ------|----------|------------|-----------
 Object Instance of Class | JS TS | 27.5% | Medium
 Array Prototype Last | JS TS | 80.5% | Easy
-[Counter](/counter/README.md) | JS TS | 89.1% | Easy
+[Counter](/counter/README.md) | [JS](/counter/solution.js) TS | 89.1% | Easy
 Sleep | JS TS | 88.1% | Easy
 Cache With Time Limit | JS TS | 75.6% | Medium
 Memoize | JS TS | 62.3% | Medium
