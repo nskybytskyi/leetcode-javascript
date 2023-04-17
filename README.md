@@ -12,7 +12,7 @@ Memoize | JS TS | 62.3% | Medium
 Snail Traversal | JS TS | 81.0% | Medium
 Flatten Deeply Nested Array | JS TS | 66.5% | Medium
 Array Reduce Transformation | JS TS | 86.1% | Easy
-[Debounce](/debounce/README.md) | [JS](/debounce/solution.js) TS | 92.2% | Medium
+[Debounce](/debounce/README.md) | [JS](/debounce/solution.js) [TS](/debounce/solution.ts) | 92.2% | Medium
 JSON Deep Equal | JS TS | 33.3% | Medium
 [Function Composition](/function_composition/README.md) | [JS](/function_composition/solution.js) [TS](/function_composition/solution.ts) | 89.2% | Easy
 Memoize II | JS TS | 43.0% | Hard
