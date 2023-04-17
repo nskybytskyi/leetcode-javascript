@@ -20,6 +20,6 @@ Group By | JS TS | 86.1% | Medium
 Curry | JS TS | 88.6% | Medium
 JSON Stringify | JS TS | 76.8% | Medium
 Array Filter Transform | JS TS | 83.0% | Easy
-[Array Map Transform](/apply_transform_over_each_element_in_array/README.md) | [JS](/apply_transform_over_each_element_in_array/solution.js) TS | 89.1% | Easy
+[Array Map Transform](/apply_transform_over_each_element_in_array/README.md) | [JS](/apply_transform_over_each_element_in_array/solution.js) [TS](/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | Easy
 Promise Pool | JS TS | 81.9% | Medium
 Promise Time Limit | JS TS | 82.4% | Easy
