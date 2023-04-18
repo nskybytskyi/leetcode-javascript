@@ -8,7 +8,7 @@ const curry = function (fn) {
             return fn(...head);
         } else {
             return function (...tail) {
-                return curried.apply(this, head.concat(tail));
+                return curried(...head, ...tail);
             }
         }
     };
