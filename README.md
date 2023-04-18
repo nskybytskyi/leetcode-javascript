@@ -17,7 +17,7 @@ JSON Deep Equal | JS TS | 33.3% | Medium
 [Function Composition](/function_composition/README.md) | [JS](/function_composition/solution.js) [TS](/function_composition/solution.ts) | 89.2% | Easy
 Memoize II | JS TS | 43.0% | Hard
 Group By | JS TS | 86.1% | Medium
-Curry | JS TS | 88.6% | Medium
+[Curry](/curry/README.md) | [JS](/curry/solution.js) [TS](/curry/solution.ts) | 88.6% | Medium
 JSON Stringify | JS TS | 76.8% | Medium
 Array Filter Transform | JS TS | 83.0% | Easy
 [Array Map Transform](/apply_transform_over_each_element_in_array/README.md) | [JS](/apply_transform_over_each_element_in_array/solution.js) [TS](/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | Easy
