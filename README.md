@@ -11,7 +11,7 @@ Cache With Time Limit | JS TS | 75.6% | Medium
 Memoize | JS TS | 62.3% | Medium
 Snail Traversal | JS TS | 81.0% | Medium
 Flatten Deeply Nested Array | JS TS | 66.5% | Medium
-Array Reduce Transformation | JS TS | 86.1% | Easy
+[Array Reduce Transform](/array_reduce_transformation/README.md) | [JS](/array_reduce_transformation/solution.js) [TS](/array_reduce_transformation/solution.ts) | 86.1% | Easy
 [Debounce](/debounce/README.md) | [JS](/debounce/solution.js) [TS](/debounce/solution.ts) | 92.2% | Medium
 JSON Deep Equal | JS TS | 33.3% | Medium
 [Function Composition](/function_composition/README.md) | [JS](/function_composition/solution.js) [TS](/function_composition/solution.ts) | 89.2% | Easy
