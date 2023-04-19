@@ -8,9 +8,7 @@ Array.prototype.groupBy = function (fn: (item: any) => string) {
     const dict = {};
     for (const elem of this) {
         const key = fn(elem);
-        if (!(key in dict)) {
-            dict[key] = [];
-        }
+        dict[key] ??= [];
         dict[key].push(elem);
     }
     return dict;
