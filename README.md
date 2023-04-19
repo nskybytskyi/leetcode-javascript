@@ -22,4 +22,4 @@ JSON Stringify | JS TS | 76.8% | Medium
 Array Filter Transform | JS TS | 83.0% | Easy
 [Array Map Transform](/apply_transform_over_each_element_in_array/README.md) | [JS](/apply_transform_over_each_element_in_array/solution.js) [TS](/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | Easy
 Promise Pool | JS TS | 81.9% | Medium
-Promise Time Limit | JS TS | 82.4% | Easy
+[Promise Time Limit](/promise_time_limit/README.md) | [JS](/promise_time_limit/solution.js) [TS](/promise_time_limit/solution.ts) | 82.4% | Easy
