@@ -8,20 +8,17 @@ Array.prototype.snail = function (rowsCount, colsCount) {
         return [];
     }
 
-    const array = [];
-    for (let row = 0; row < rowsCount; row++) {
-        array.push([]);
+    const array = Array(rowsCount).fill().map(() => Array(colsCount).fill());
+    let row = 0, col = 0, dir = 1;
 
-        let position = row;
-        for (let col = 0; col < colsCount; col++) {
-            console.log(row, col, position);
-            array[row].push(this[position]);
+    for (const elem of this) {
+        array[row][col] = elem;
 
-            if (col % 2) {
-                position += 2 * row + 1;
-            } else {
-                position += 2 * (rowsCount - row) - 1;
-            }
+        if (0 <= row + dir && row + dir < rowsCount) {
+            row += dir;
+        } else {
+            col++;
+            dir = -dir;
         }
     }
 
