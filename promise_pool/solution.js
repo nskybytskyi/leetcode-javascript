@@ -11,7 +11,7 @@ var promisePool = async function (functions, n) {
         }
     };
 
-    return Promise.all(Array(n).fill().map(() => worker()));
+    await Promise.all(Array(n).fill().map(worker));
 };
 
 /**
