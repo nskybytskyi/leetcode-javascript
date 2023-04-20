@@ -8,7 +8,7 @@ function promisePool(functions: F[], n: number): Promise<any> {
         }
     };
 
-    return Promise.all(Array(n).fill(false).map(() => worker()));
+    return Promise.all(Array(n).fill(0).map(worker));
 };
 
 /**
