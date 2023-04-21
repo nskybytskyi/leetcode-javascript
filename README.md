@@ -10,7 +10,7 @@ Array Prototype Last | JS TS | 80.5% | Easy
 Cache With Time Limit | JS TS | 75.6% | Medium
 Memoize | JS TS | 62.3% | Medium
 Snail Traversal | JS TS | 81.0% | Medium
-Flatten Deeply Nested Array | JS TS | 66.5% | Medium
+[Flatten Deeply Nested Array](/flatten_deeply_nested_array/README.md) | [JS](/flatten_deeply_nested_array/solution.js) [TS](/flatten_deeply_nested_array/solution.ts) | 66.5% | Medium
 [Array Reduce Transform](/array_reduce_transformation/README.md) | [JS](/array_reduce_transformation/solution.js) [TS](/array_reduce_transformation/solution.ts) | 86.1% | Easy
 [Debounce](/debounce/README.md) | [JS](/debounce/solution.js) [TS](/debounce/solution.ts) | 92.2% | Medium
 JSON Deep Equal | JS TS | 33.3% | Medium
