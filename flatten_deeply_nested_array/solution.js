@@ -4,18 +4,17 @@
  * @return {any[]}
  */
 var flat = function (arr, n) {
+    if (n === 0) {
+        return arr;
+    }
+
     const flattened = [];
-    const dfs = (object, depth) => {
-        if (n < depth) {
-            flattened.push(object);
-        } else if (Array.isArray(object)) {
-            for (const value of object) {
-                dfs(value, depth + 1);
-            }
+    for (const value of arr) {
+        if (Array.isArray(value)) {
+            flattened.push(...flat(value, n - 1));
         } else {
-            flattened.push(object);
+            flattened.push(value);
         }
-    };
-    dfs(arr, 0);
+    }
     return flattened;
 };
