@@ -7,7 +7,7 @@ Object Instance of Class | JS TS | 27.5% | Medium
 Array Prototype Last | JS TS | 80.5% | Easy
 [Counter](/counter/README.md) | [JS](/counter/solution.js) [TS](/counter/solution.ts) | 89.1% | Easy
 [Sleep](/sleep/README.md) | [JS](/sleep/solution.js) [TS](/sleep/solution.ts) | 88.1% | Easy
-Cache With Time Limit | JS TS | 75.6% | Medium
+[Cache With Time Limit](/cache_with_time_limit/README.md) | [JS](/cache_with_time_limit/solution.js) [TS](/cache_with_time_limit/solution.ts) | 75.6% | Medium
 Memoize | JS TS | 62.3% | Medium
 Snail Traversal | JS TS | 81.0% | Medium
 Flatten Deeply Nested Array | JS TS | 66.5% | Medium
