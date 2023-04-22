@@ -4,10 +4,11 @@
 function memoize(fn) {
     const cache = {};
     return function (...args) {
-        if (!(args in cache)) {
-            cache[args] = fn(...args);
+        const hash = JSON.stringify(args);
+        if (!(hash in cache)) {
+            cache[hash] = fn(...args);
         }
-        return cache[args];
+        return cache[hash];
     }
 }
 
