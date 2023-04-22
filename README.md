@@ -7,8 +7,8 @@ Object Instance of Class | JS TS | 27.5% | Medium
 [Array Prototype Last](/array_prototype_last/README.md) | [JS](/array_prototype_last/solution.js) [TS](/array_prototype_last/solution.ts) | 80.5% | Easy
 [Counter](/counter/README.md) | [JS](/counter/solution.js) [TS](/counter/solution.ts) | 89.1% | Easy
 [Sleep](/sleep/README.md) | [JS](/sleep/solution.js) [TS](/sleep/solution.ts) | 88.1% | Easy
+[Memoize](/memoize/README.md) | [JS](/memoize/solution.js) [TS](/memoize/solution.ts) | 62.3% | Medium
 [Cache With Time Limit](/cache_with_time_limit/README.md) | [JS](/cache_with_time_limit/solution.js) [TS](/cache_with_time_limit/solution.ts) | 75.6% | Medium
-Memoize | JS TS | 62.3% | Medium
 [Flatten Deeply Nested Array](/flatten_deeply_nested_array/README.md) | [JS](/flatten_deeply_nested_array/solution.js) [TS](/flatten_deeply_nested_array/solution.ts) | 66.5% | Medium
 [Snail Traversal](/snail_traversal/README.md) | [JS](/snail_traversal/solution.js) [TS](/snail_traversal/solution.ts) | 81.0% | Medium
 [Array Reduce Transform](/array_reduce_transformation/README.md) | [JS](/array_reduce_transformation/solution.js) [TS](/array_reduce_transformation/solution.ts) | 86.1% | Easy
