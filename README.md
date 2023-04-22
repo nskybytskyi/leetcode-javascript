@@ -8,7 +8,7 @@ Object Instance of Class | JS TS | 27.5% | Medium
 [Counter](/counter/README.md) | [JS](/counter/solution.js) [TS](/counter/solution.ts) | 89.1% | Easy
 [Sleep](/sleep/README.md) | [JS](/sleep/solution.js) [TS](/sleep/solution.ts) | 88.1% | Easy
 Cache With Time Limit | JS TS | 75.6% | Medium
-Memoize | JS TS | 62.3% | Medium
+[Memoize](/memoize/README.md) | [JS](/memoize/solution.js) [TS](/memoize/solution.ts) | 62.3% | Medium
 [Snail Traversal](/snail_traversal/README.md) | [JS](/snail_traversal/solution.js) [TS](/snail_traversal/solution.ts) | 81.0% | Medium
 Flatten Deeply Nested Array | JS TS | 66.5% | Medium
 [Array Reduce Transform](/array_reduce_transformation/README.md) | [JS](/array_reduce_transformation/solution.js) [TS](/array_reduce_transformation/solution.ts) | 86.1% | Easy
