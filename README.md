@@ -15,7 +15,7 @@ Object Instance of Class | JS TS | 27.5% | Medium
 [Debounce](/debounce/README.md) | [JS](/debounce/solution.js) [TS](/debounce/solution.ts) | 92.2% | Medium
 JSON Deep Equal | JS TS | 33.3% | Medium
 [Function Composition](/function_composition/README.md) | [JS](/function_composition/solution.js) [TS](/function_composition/solution.ts) | 89.2% | Easy
-Memoize II | JS TS | 43.0% | Hard
+[Memoize II](/memoize_ii/README.md) | [JS](/memoize_ii/solution.js) [TS](/memoize_ii/solution.ts) | 43.0% | Hard
 [Group By](/group_by/README.md) | [JS](/group_by/solution.js) [TS](/group_by/solution.ts) | 86.1% | Medium
 [Curry](/curry/README.md) | [JS](/curry/solution.js) [TS](/curry/solution.ts) | 88.6% | Medium
 [JSON Stringify](/convert_object_to_json_string/README.md) | [JS](/convert_object_to_json_string/solution.js) [TS](/convert_object_to_json_string/solution.ts) | 76.8% | Medium
