@@ -20,16 +20,16 @@ Closure | [Curry](/closure/curry/README.md) | [JS](/closure/curry/solution.js) [
 Closure | [Memoize](/closure/memoize/README.md) | [JS](/closure/memoize/solution.js) [TS](/closure/memoize/solution.ts) | 62.3% | Medium
 Closure | [Memoize II](/closure/memoize_ii/README.md) | [JS](/closure/memoize_ii/solution.js) [TS](/closure/memoize_ii/solution.ts) | 43.0% | Hard
 &nbsp;
-Timeout | [Sleep](/time/sleep/README.md) | [JS](/time/sleep/solution.js) [TS](/time/sleep/solution.ts) | 88.1% | Easy
-Timeout | [Debounce](/time/debounce/README.md) | [JS](/time/debounce/solution.js) [TS](/time/debounce/solution.ts) | 92.2% | Medium
-Timeout | [Promise Time Limit](/time/timelimit/README.md) | [JS](/time/timelimit/solution.js) [TS](/time/timelimit/solution.ts) | 82.4% | Easy
-Timeout | [Promise Pool](/time/pool/README.md) | [JS](/time/pool/solution.js) [TS](/time/pool/solution.ts) | 81.9% | Medium
-Timeout | [Cache Time Limit](/time/cache/README.md) | [JS](/time/cache/solution.js) [TS](/time/cache/solution.ts) | 75.6% | Medium
+Time | [Sleep](/time/sleep/README.md) | [JS](/time/sleep/solution.js) [TS](/time/sleep/solution.ts) | 88.1% | Easy
+Time | [Debounce](/time/debounce/README.md) | [JS](/time/debounce/solution.js) [TS](/time/debounce/solution.ts) | 92.2% | Medium
+Time | [Promise Time Limit](/time/timelimit/README.md) | [JS](/time/timelimit/solution.js) [TS](/time/timelimit/solution.ts) | 82.4% | Easy
+Time | [Promise Pool](/time/pool/README.md) | [JS](/time/pool/solution.js) [TS](/time/pool/solution.ts) | 81.9% | Medium
+Time | [Cache Time Limit](/time/cache/README.md) | [JS](/time/cache/solution.js) [TS](/time/cache/solution.ts) | 75.6% | Medium
 &nbsp;
-MapReduce | [Map](/functional/map/README.md) | [JS](/functional/map/solution.js) [TS](/functional/map/solution.ts) | 89.1% | Easy
-MapReduce | [Reduce](/functional/reduce/README.md) | [JS](/functional/reduce/solution.js) [TS](/functional/reduce/solution.ts) | 86.1% | Easy
-MapReduce | [Filter](/functional/filter/README.md) | [JS](/functional/filter/solution.js) [TS](/functional/filter/solution.ts) | 83.0% | Easy
-MapReduce | [Composition](/functional/composition/README.md) | [JS](/functional/composition/solution.js) [TS](/functional/composition/solution.ts) | 89.2% | Easy
+Functional | [Map](/functional/map/README.md) | [JS](/functional/map/solution.js) [TS](/functional/map/solution.ts) | 89.1% | Easy
+Functional | [Reduce](/functional/reduce/README.md) | [JS](/functional/reduce/solution.js) [TS](/functional/reduce/solution.ts) | 86.1% | Easy
+Functional | [Filter](/functional/filter/README.md) | [JS](/functional/filter/solution.js) [TS](/functional/filter/solution.ts) | 83.0% | Easy
+Functional | [Composition](/functional/composition/README.md) | [JS](/functional/composition/solution.js) [TS](/functional/composition/solution.ts) | 89.2% | Easy
 &nbsp;
 JSON | [Deep Equal](/json/deepequal/README.md) | [JS](/json/deepequal/solution.js) [TS](/json/deepequal/solution.ts) | 33.3% | Medium
 JSON | [Stringify](/json/stringify/README.md) | [JS](/json/stringify/solution.js) [TS](/json/stringify/solution.ts) | 76.8% | Medium
