@@ -1,25 +1,36 @@
 # leetcode-javascript
 My exploration of JavaScript and TypeScript through the corresponding LeetCode problem category.
 
-Title | Solution | Acceptance | Difficulty
-------|----------|------------|-----------
-[Object Instance of Class](/check_if_object_instance_of_class/README.md) | [JS](/check_if_object_instance_of_class/solution.js) [TS](/check_if_object_instance_of_class/solution.ts) | 27.5% | Medium
-[Array Prototype Last](/array_prototype_last/README.md) | [JS](/array_prototype_last/solution.js) [TS](/array_prototype_last/solution.ts) | 80.5% | Easy
-[Counter](/counter/README.md) | [JS](/counter/solution.js) [TS](/counter/solution.ts) | 89.1% | Easy
-[Sleep](/sleep/README.md) | [JS](/sleep/solution.js) [TS](/sleep/solution.ts) | 88.1% | Easy
-[Memoize](/memoize/README.md) | [JS](/memoize/solution.js) [TS](/memoize/solution.ts) | 62.3% | Medium
-[Cache With Time Limit](/cache_with_time_limit/README.md) | [JS](/cache_with_time_limit/solution.js) [TS](/cache_with_time_limit/solution.ts) | 75.6% | Medium
-[Flatten Deeply Nested Array](/flatten_deeply_nested_array/README.md) | [JS](/flatten_deeply_nested_array/solution.js) [TS](/flatten_deeply_nested_array/solution.ts) | 66.5% | Medium
-[Snail Traversal](/snail_traversal/README.md) | [JS](/snail_traversal/solution.js) [TS](/snail_traversal/solution.ts) | 81.0% | Medium
-[Array Reduce Transform](/array_reduce_transformation/README.md) | [JS](/array_reduce_transformation/solution.js) [TS](/array_reduce_transformation/solution.ts) | 86.1% | Easy
-[Debounce](/debounce/README.md) | [JS](/debounce/solution.js) [TS](/debounce/solution.ts) | 92.2% | Medium
-[JSON Deep Equal](/json_deep_equal/README.md) | [JS](/json_deep_equal/solution.js) [TS](/json_deep_equal//solution.ts) | 33.3% | Medium
-[Function Composition](/function_composition/README.md) | [JS](/function_composition/solution.js) [TS](/function_composition/solution.ts) | 89.2% | Easy
-[Memoize II](/memoize_ii/README.md) | [JS](/memoize_ii/solution.js) [TS](/memoize_ii/solution.ts) | 43.0% | Hard
-[Group By](/group_by/README.md) | [JS](/group_by/solution.js) [TS](/group_by/solution.ts) | 86.1% | Medium
-[Curry](/curry/README.md) | [JS](/curry/solution.js) [TS](/curry/solution.ts) | 88.6% | Medium
-[JSON Stringify](/convert_object_to_json_string/README.md) | [JS](/convert_object_to_json_string/solution.js) [TS](/convert_object_to_json_string/solution.ts) | 76.8% | Medium
-[Array Filter Transform](/filter_elements_from_array/README.md) | [JS](/filter_elements_from_array/solution.js) [TS](/filter_elements_from_array/solution.ts) | 83.0% | Easy
-[Array Map Transform](/apply_transform_over_each_element_in_array/README.md) | [JS](/apply_transform_over_each_element_in_array/solution.js) [TS](/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | Easy
-[Promise Pool](/promise_pool/README.md) | [JS](/promise_pool/solution.js) [TS](/promise_pool/solution.ts) | 81.9% | Medium
-[Promise Time Limit](/promise_time_limit/README.md) | [JS](/promise_time_limit/solution.js) [TS](/promise_time_limit/solution.ts) | 82.4% | Easy
+I partitioned the problems into five broad groups:
+- **prototype** related to prototypes and inheritance;
+- **closure** related to nested functions;
+- **time** related to timeouts and promises;
+- **functional** realted to mapreduce utilities;
+- **JSON** related to nested objects.
+
+Group | Title | Solution | Acceptance | Difficulty
+------|-------|----------|------------|-----------
+Prototype | [Last](/prototype/last/README.md) | [JS](/prototype/last/solution.js) [TS](/prototype/last/solution.ts) | 80.5% | Easy
+Prototype | [Group By](/prototype/groupby/README.md) | [JS](/prototype/groupby/solution.js) [TS](/prototype/groupby/solution.ts) | 86.1% | Medium
+Prototype | [Snail](/prototype/snail/README.md) | [JS](/prototype/snail/solution.js) [TS](/prototype/snail/solution.ts) | 81.0% | Medium
+Prototype | [Instanceof](/prototype/instanceof/README.md) | [JS](/prototype/instanceof/solution.js) [TS](/prototype/instanceof/solution.ts) | 27.5% | Medium
+&nbsp;
+Closure | [Counter](/closure/counter/README.md) | [JS](/closure/counter/solution.js) [TS](/closure/counter/solution.ts) | 89.1% | Easy
+Closure | [Curry](/closure/curry/README.md) | [JS](/closure/curry/solution.js) [TS](/closure/curry/solution.ts) | 88.6% | Medium
+Closure | [Memoize](/closure/memoize/README.md) | [JS](/closure/memoize/solution.js) [TS](/closure/memoize/solution.ts) | 62.3% | Medium
+Closure | [Memoize II](/closure/memoize_ii/README.md) | [JS](/closure/memoize_ii/solution.js) [TS](/closure/memoize_ii/solution.ts) | 43.0% | Hard
+&nbsp;
+Timeout | [Sleep](/time/sleep/README.md) | [JS](/time/sleep/solution.js) [TS](/time/sleep/solution.ts) | 88.1% | Easy
+Timeout | [Debounce](/time/debounce/README.md) | [JS](/time/debounce/solution.js) [TS](/time/debounce/solution.ts) | 92.2% | Medium
+Timeout | [Promise Time Limit](/time/timelimit/README.md) | [JS](/time/timelimit/solution.js) [TS](/time/timelimit/solution.ts) | 82.4% | Easy
+Timeout | [Promise Pool](/time/pool/README.md) | [JS](/time/pool/solution.js) [TS](/time/pool/solution.ts) | 81.9% | Medium
+Timeout | [Cache Time Limit](/time/cache/README.md) | [JS](/time/cache/solution.js) [TS](/time/cache/solution.ts) | 75.6% | Medium
+&nbsp;
+MapReduce | [Map](/functional/map/README.md) | [JS](/functional/map/solution.js) [TS](/functional/map/solution.ts) | 89.1% | Easy
+MapReduce | [Reduce](/functional/reduce/README.md) | [JS](/functional/reduce/solution.js) [TS](/functional/reduce/solution.ts) | 86.1% | Easy
+MapReduce | [Filter](/functional/filter/README.md) | [JS](/functional/filter/solution.js) [TS](/functional/filter/solution.ts) | 83.0% | Easy
+MapReduce | [Composition](/functional/composition/README.md) | [JS](/functional/composition/solution.js) [TS](/functional/composition/solution.ts) | 89.2% | Easy
+&nbsp;
+JSON | [Deep Equal](/json/deepequal/README.md) | [JS](/json/deepequal/solution.js) [TS](/json/deepequal/solution.ts) | 33.3% | Medium
+JSON | [Stringify](/json/stringify/README.md) | [JS](/json/stringify/solution.js) [TS](/json/stringify/solution.ts) | 76.8% | Medium
+JSON | [Flatten](/json/flatten/README.md) | [JS](/json/flatten/solution.js) [TS](/json/flatten/solution.ts) | 66.5% | Medium
