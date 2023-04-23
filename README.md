@@ -3,7 +3,7 @@ My exploration of JavaScript and TypeScript through the corresponding LeetCode p
 
 Title | Solution | Acceptance | Difficulty
 ------|----------|------------|-----------
-Object Instance of Class | JS TS | 27.5% | Medium
+[Object Instance of Class](/check_if_object_instance_of_class/README.md) | [JS](/check_if_object_instance_of_class/solution.js) [TS](/check_if_object_instance_of_class/solution.ts) | 27.5% | Medium
 [Array Prototype Last](/array_prototype_last/README.md) | [JS](/array_prototype_last/solution.js) [TS](/array_prototype_last/solution.ts) | 80.5% | Easy
 [Counter](/counter/README.md) | [JS](/counter/solution.js) [TS](/counter/solution.ts) | 89.1% | Easy
 [Sleep](/sleep/README.md) | [JS](/sleep/solution.js) [TS](/sleep/solution.ts) | 88.1% | Easy
