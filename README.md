@@ -1,12 +1,13 @@
 # leetcode-javascript
 My exploration of JavaScript and TypeScript through the corresponding LeetCode problem category.
 
-I partitioned the problems into five broad groups:
+I partitioned the problems into six broad groups:
 - **prototype** related to prototypes and inheritance;
 - **closure** related to nested functions;
 - **time** related to timeouts and promises;
 - **functional** realted to mapreduce utilities;
-- **JSON** related to nested objects.
+- **JSON** related to nested objects;
+- **generator** related to generator and iterators.
 
 Group | Title | Solution | Acceptance | Difficulty
 ------|-------|----------|------------|-----------
@@ -34,3 +35,5 @@ Functional | [Composition](/functional/composition/README.md) | [JS](/functional
 JSON | [Deep Equal](/json/deepequal/README.md) | [JS](/json/deepequal/solution.js) [TS](/json/deepequal/solution.ts) | 33.3% | Medium
 JSON | [Stringify](/json/stringify/README.md) | [JS](/json/stringify/solution.js) [TS](/json/stringify/solution.ts) | 76.8% | Medium
 JSON | [Flatten](/json/flatten/README.md) | [JS](/json/flatten/solution.js) [TS](/json/flatten/solution.ts) | 66.5% | Medium
+&nbsp;
+Generator | [Fibonacci](/generator/fibonacci/README.md) | [JS](/generator/fibonacci/solution.js) [TS](/generator/fibonacci/solution.ts) | 82.5% | Easy
