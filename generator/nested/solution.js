@@ -3,7 +3,13 @@
  * @return {Generator}
  */
 var inorderTraversal = function* (arr) {
-
+    for (const nested of arr) {
+        if (Array.isArray(nested)) {
+            yield* inorderTraversal(nested);
+        } else {
+            yield nested;
+        }
+    }
 };
 
 /**
