@@ -23,4 +23,4 @@ Memoize II | JS TS | 43.0% | Hard
 [Array Map Transform](/apply_transform_over_each_element_in_array/README.md) | [JS](/apply_transform_over_each_element_in_array/solution.js) [TS](/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | Easy
 [Promise Pool](/promise_pool/README.md) | [JS](/promise_pool/solution.js) [TS](/promise_pool/solution.ts) | 81.9% | Medium
 [Promise Time Limit](/promise_time_limit/README.md) | [JS](/promise_time_limit/solution.js) [TS](/promise_time_limit/solution.ts) | 82.4% | Easy
-[Nested Array Generator](/nested_array_generator/README.md) | [JS](/nested_array_generator/solution.js) [TS](/nested_array_generator/solution.ts) | 78.2% | Medium
+Generator | [Nested Array](/generator/nested/README.md) | [JS](/generator/nested/solution.js) [TS](/generator/nested/solution.ts) | 78.2% | Medium
