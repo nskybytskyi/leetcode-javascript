@@ -37,3 +37,4 @@ JSON | [Stringify](/json/stringify/README.md) | [JS](/json/stringify/solution.js
 JSON | [Flatten](/json/flatten/README.md) | [JS](/json/flatten/solution.js) [TS](/json/flatten/solution.ts) | 66.5% | Medium
 &nbsp;
 Generator | [Fibonacci](/generator/fibonacci/README.md) | [JS](/generator/fibonacci/solution.js) [TS](/generator/fibonacci/solution.ts) | 82.5% | Easy
+Generator | [Nested Array](/generator/nested/README.md) | [JS](/generator/nested/solution.js) [TS](/generator/nested/solution.ts) | 78.2% | Medium
