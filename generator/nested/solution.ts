@@ -1,7 +1,13 @@
 type MultidimensionalArray = (MultidimensionalArray | number)[]
 
 function* inorderTraversal(arr: MultidimensionalArray): Generator<number, void, unknown> {
-
+    for (const nested of arr) {
+        if (Array.isArray(nested)) {
+            yield* inorderTraversal(nested);
+        } else {
+            yield nested;
+        }
+    }
 };
 
 /**
