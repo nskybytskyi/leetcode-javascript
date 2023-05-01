@@ -26,6 +26,7 @@ Time | [Debounce](/time/debounce/README.md) | [JS](/time/debounce/solution.js) [
 Time | [Promise Time Limit](/time/timelimit/README.md) | [JS](/time/timelimit/solution.js) [TS](/time/timelimit/solution.ts) | 82.4% | Easy
 Time | [Promise Pool](/time/pool/README.md) | [JS](/time/pool/solution.js) [TS](/time/pool/solution.ts) | 81.9% | Medium
 Time | [Cache Time Limit](/time/cache/README.md) | [JS](/time/cache/solution.js) [TS](/time/cache/solution.ts) | 75.6% | Medium
+Time | [Design Cancellable Function](/time/cancellable/README.md) | [JS](/time/cancellable/solution.js) [TS](/time/cancellable/solution.ts) | 41.3% | Hard
 &nbsp;
 Functional | [Map](/functional/map/README.md) | [JS](/functional/map/solution.js) [TS](/functional/map/solution.ts) | 89.1% | Easy
 Functional | [Reduce](/functional/reduce/README.md) | [JS](/functional/reduce/solution.js) [TS](/functional/reduce/solution.ts) | 86.1% | Easy
