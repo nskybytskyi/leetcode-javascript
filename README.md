@@ -1,26 +1,41 @@
 # leetcode-javascript
 My exploration of JavaScript and TypeScript through the corresponding LeetCode problem category.
 
-Title | Solution | Acceptance | Difficulty
-------|----------|------------|-----------
-Object Instance of Class | JS TS | 27.5% | Medium
-[Array Prototype Last](/array_prototype_last/README.md) | [JS](/array_prototype_last/solution.js) [TS](/array_prototype_last/solution.ts) | 80.5% | Easy
-[Counter](/counter/README.md) | [JS](/counter/solution.js) [TS](/counter/solution.ts) | 89.1% | Easy
-[Sleep](/sleep/README.md) | [JS](/sleep/solution.js) [TS](/sleep/solution.ts) | 88.1% | Easy
-[Cache With Time Limit](/cache_with_time_limit/README.md) | [JS](/cache_with_time_limit/solution.js) [TS](/cache_with_time_limit/solution.ts) | 75.6% | Medium
-Memoize | JS TS | 62.3% | Medium
-[Flatten Deeply Nested Array](/flatten_deeply_nested_array/README.md) | [JS](/flatten_deeply_nested_array/solution.js) [TS](/flatten_deeply_nested_array/solution.ts) | 66.5% | Medium
-[Snail Traversal](/snail_traversal/README.md) | [JS](/snail_traversal/solution.js) [TS](/snail_traversal/solution.ts) | 81.0% | Medium
-[Array Reduce Transform](/array_reduce_transformation/README.md) | [JS](/array_reduce_transformation/solution.js) [TS](/array_reduce_transformation/solution.ts) | 86.1% | Easy
-[Debounce](/debounce/README.md) | [JS](/debounce/solution.js) [TS](/debounce/solution.ts) | 92.2% | Medium
-JSON Deep Equal | JS TS | 33.3% | Medium
-[Function Composition](/function_composition/README.md) | [JS](/function_composition/solution.js) [TS](/function_composition/solution.ts) | 89.2% | Easy
-Memoize II | JS TS | 43.0% | Hard
-[Group By](/group_by/README.md) | [JS](/group_by/solution.js) [TS](/group_by/solution.ts) | 86.1% | Medium
-[Curry](/curry/README.md) | [JS](/curry/solution.js) [TS](/curry/solution.ts) | 88.6% | Medium
-[JSON Stringify](/convert_object_to_json_string/README.md) | [JS](/convert_object_to_json_string/solution.js) [TS](/convert_object_to_json_string/solution.ts) | 76.8% | Medium
-[Array Filter Transform](/filter_elements_from_array/README.md) | [JS](/filter_elements_from_array/solution.js) [TS](/filter_elements_from_array/solution.ts) | 83.0% | Easy
-[Array Map Transform](/apply_transform_over_each_element_in_array/README.md) | [JS](/apply_transform_over_each_element_in_array/solution.js) [TS](/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | Easy
-[Promise Pool](/promise_pool/README.md) | [JS](/promise_pool/solution.js) [TS](/promise_pool/solution.ts) | 81.9% | Medium
-[Promise Time Limit](/promise_time_limit/README.md) | [JS](/promise_time_limit/solution.js) [TS](/promise_time_limit/solution.ts) | 82.4% | Easy
+I partitioned the problems into six broad groups:
+- **prototype** related to prototypes and inheritance;
+- **closure** related to nested functions;
+- **time** related to timeouts and promises;
+- **functional** realted to mapreduce utilities;
+- **JSON** related to nested objects;
+- **generator** related to generator and iterators.
+
+Group | Title | Solution | Acceptance | Difficulty
+------|-------|----------|------------|-----------
+Prototype | [Last](/prototype/last/README.md) | [JS](/prototype/last/solution.js) [TS](/prototype/last/solution.ts) | 80.5% | Easy
+Prototype | [Group By](/prototype/groupby/README.md) | [JS](/prototype/groupby/solution.js) [TS](/prototype/groupby/solution.ts) | 86.1% | Medium
+Prototype | [Snail](/prototype/snail/README.md) | [JS](/prototype/snail/solution.js) [TS](/prototype/snail/solution.ts) | 81.0% | Medium
+Prototype | [Instanceof](/prototype/instanceof/README.md) | [JS](/prototype/instanceof/solution.js) [TS](/prototype/instanceof/solution.ts) | 27.5% | Medium
+&nbsp;
+Closure | [Counter](/closure/counter/README.md) | [JS](/closure/counter/solution.js) [TS](/closure/counter/solution.ts) | 89.1% | Easy
+Closure | [Curry](/closure/curry/README.md) | [JS](/closure/curry/solution.js) [TS](/closure/curry/solution.ts) | 88.6% | Medium
+Closure | [Memoize](/closure/memoize/README.md) | [JS](/closure/memoize/solution.js) [TS](/closure/memoize/solution.ts) | 62.3% | Medium
+Closure | [Memoize II](/closure/memoize_ii/README.md) | [JS](/closure/memoize_ii/solution.js) [TS](/closure/memoize_ii/solution.ts) | 43.0% | Hard
+&nbsp;
+Time | [Sleep](/time/sleep/README.md) | [JS](/time/sleep/solution.js) [TS](/time/sleep/solution.ts) | 88.1% | Easy
+Time | [Debounce](/time/debounce/README.md) | [JS](/time/debounce/solution.js) [TS](/time/debounce/solution.ts) | 92.2% | Medium
+Time | [Promise Time Limit](/time/timelimit/README.md) | [JS](/time/timelimit/solution.js) [TS](/time/timelimit/solution.ts) | 82.4% | Easy
+Time | [Promise Pool](/time/pool/README.md) | [JS](/time/pool/solution.js) [TS](/time/pool/solution.ts) | 81.9% | Medium
+Time | [Cache Time Limit](/time/cache/README.md) | [JS](/time/cache/solution.js) [TS](/time/cache/solution.ts) | 75.6% | Medium
 Time | [Design Cancellable Function](/time/cancellable/README.md) | [JS](/time/cancellable/solution.js) [TS](/time/cancellable/solution.ts) | 41.3% | Hard
+&nbsp;
+Functional | [Map](/functional/map/README.md) | [JS](/functional/map/solution.js) [TS](/functional/map/solution.ts) | 89.1% | Easy
+Functional | [Reduce](/functional/reduce/README.md) | [JS](/functional/reduce/solution.js) [TS](/functional/reduce/solution.ts) | 86.1% | Easy
+Functional | [Filter](/functional/filter/README.md) | [JS](/functional/filter/solution.js) [TS](/functional/filter/solution.ts) | 83.0% | Easy
+Functional | [Composition](/functional/composition/README.md) | [JS](/functional/composition/solution.js) [TS](/functional/composition/solution.ts) | 89.2% | Easy
+&nbsp;
+JSON | [Deep Equal](/json/deepequal/README.md) | [JS](/json/deepequal/solution.js) [TS](/json/deepequal/solution.ts) | 33.3% | Medium
+JSON | [Stringify](/json/stringify/README.md) | [JS](/json/stringify/solution.js) [TS](/json/stringify/solution.ts) | 76.8% | Medium
+JSON | [Flatten](/json/flatten/README.md) | [JS](/json/flatten/solution.js) [TS](/json/flatten/solution.ts) | 66.5% | Medium
+&nbsp;
+Generator | [Fibonacci](/generator/fibonacci/README.md) | [JS](/generator/fibonacci/solution.js) [TS](/generator/fibonacci/solution.ts) | 82.5% | Easy
+Generator | [Nested Array](/generator/nested/README.md) | [JS](/generator/nested/solution.js) [TS](/generator/nested/solution.ts) | 78.2% | Medium
