@@ -23,4 +23,4 @@ Memoize II | JS TS | 43.0% | Hard
 [Array Map Transform](/apply_transform_over_each_element_in_array/README.md) | [JS](/apply_transform_over_each_element_in_array/solution.js) [TS](/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | Easy
 [Promise Pool](/promise_pool/README.md) | [JS](/promise_pool/solution.js) [TS](/promise_pool/solution.ts) | 81.9% | Medium
 [Promise Time Limit](/promise_time_limit/README.md) | [JS](/promise_time_limit/solution.js) [TS](/promise_time_limit/solution.ts) | 82.4% | Easy
-[Design Cancellable Function](/design_cancellable_function/README.md) | [JS](/design_cancellable_function/solution.js) [TS](/design_cancellable_function/solution.ts) | 41.3% | Hard
+Time | [Design Cancellable Function](/time/cancellable/README.md) | [JS](/time/cancellable/solution.js) [TS](/time/cancellable/solution.ts) | 41.3% | Hard
