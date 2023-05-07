@@ -11,13 +11,15 @@ I partitioned the problems into six broad topics:
 
 Topic | Title | Solution | Acceptance | Difficulty
 ------|-------|----------|------------|-----------
+Cosure | [Create Hello World Function](/closure/create_hello_world_function/README.md) | [![JS](/img/js.png)](/closure/create_hello_world_function/solution.js) [![TS](/img/ts.png)](/closure/create_hello_world_function/solution.ts) | 95.1% | ![Easy](/img/easy.png)
+Closure | [Counter](/closure/counter/README.md) | [![JS](/img/js.png)](/closure/counter/solution.js) [![TS](/img/ts.png)](/closure/counter/solution.ts) | 89.1% | ![Easy](/img/easy.png)
+Closure | [Counter II](/closure/counter_ii/README.md) | [![JS](/img/js.png)](/closure/counter_ii/solution.js) [![TS](/img/ts.png)](/closure/counter_ii/solution.ts) | 91.7% | ![Easy](/img/easy.png)
+&nbsp;
 Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
 Prototype | [Snail](/prototype/snail/README.md) | [![JS](/img/js.png)](/prototype/snail/solution.js) [![TS](/img/ts.png)](/prototype/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
 Prototype | [Instanceof](/prototype/instanceof/README.md) | [![JS](/img/js.png)](/prototype/instanceof/solution.js) [![TS](/img/ts.png)](/prototype/instanceof/solution.ts) | 27.5% | ![Medium](/img/medium.png)
 &nbsp;
-Cosure | [Create Hello World Function](/closure/create_hello_world_function/README.md) | [![JS](/img/js.png)](/closure/create_hello_world_function/solution.js) [![TS](/img/ts.png)](/closure/create_hello_world_function/solution.ts) | 95.1% | ![Easy](/img/easy.png)
-Closure | [Counter](/closure/counter/README.md) | [![JS](/img/js.png)](/closure/counter/solution.js) [![TS](/img/ts.png)](/closure/counter/solution.ts) | 89.1% | ![Easy](/img/easy.png)
 Closure | [Curry](/closure/curry/README.md) | [![JS](/img/js.png)](/closure/curry/solution.js) [![TS](/img/ts.png)](/closure/curry/solution.ts) | 88.6% | ![Medium](/img/medium.png)
 Closure | [Memoize](/closure/memoize/README.md) | [![JS](/img/js.png)](/closure/memoize/solution.js) [![TS](/img/ts.png)](/closure/memoize/solution.ts) | 62.3% | ![Medium](/img/medium.png)
 Closure | [Memoize II](/closure/memoize_ii/README.md) | [![JS](/img/js.png)](/closure/memoize_ii/solution.js) [![TS](/img/ts.png)](/closure/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
