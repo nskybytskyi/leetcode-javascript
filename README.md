@@ -14,6 +14,7 @@ Topic | Title | Solution | Acceptance | Difficulty
 Cosure | [Create Hello World Function](/closure/create_hello_world_function/README.md) | [![JS](/img/js.png)](/closure/create_hello_world_function/solution.js) [![TS](/img/ts.png)](/closure/create_hello_world_function/solution.ts) | 95.1% | ![Easy](/img/easy.png)
 Closure | [Counter](/closure/counter/README.md) | [![JS](/img/js.png)](/closure/counter/solution.js) [![TS](/img/ts.png)](/closure/counter/solution.ts) | 89.1% | ![Easy](/img/easy.png)
 Closure | [Counter II](/closure/counter_ii/README.md) | [![JS](/img/js.png)](/closure/counter_ii/solution.js) [![TS](/img/ts.png)](/closure/counter_ii/solution.ts) | 91.7% | ![Easy](/img/easy.png)
+Closure | [Allow One Function Call](/closure/allow_one_function_call/README.md) | [![JS](/img/js.png)](/closure/allow_one_function_call/solution.js) [![TS](/img/ts.png)](/closure/allow_one_function_call/solution.ts) | 92.0% | ![Easy](/img/easy.png)
 &nbsp;
 Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
