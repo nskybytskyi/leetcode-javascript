@@ -23,13 +23,13 @@ Basic Array Transforms | [Array Reduce Transformation](/basic_array_transforms/a
 Function Input and Output | [Function Composition](/function_input_and_output/function_composition/README.md) | [![JS](/img/js.png)](/function_input_and_output/function_composition/solution.js) [![TS](/img/ts.png)](/function_input_and_output/function_composition/solution.ts) | 89.2% | ![Easy](/img/easy.png)
 Function Input and Output | [Allow One Function Call](/function_input_and_output/allow_one_function_call/README.md) | [![JS](/img/js.png)](/function_input_and_output/allow_one_function_call/solution.js) [![TS](/img/ts.png)](/function_input_and_output/allow_one_function_call/solution.ts) | 92.0% | ![Easy](/img/easy.png)
 Function Input and Output | [Memoize](/function_input_and_output/memoize/README.md) | [![JS](/img/js.png)](/function_input_and_output/memoize/solution.js) [![TS](/img/ts.png)](/function_input_and_output/memoize/solution.ts) | 62.3% | ![Medium](/img/medium.png)
+Function Input and Output | [Curry](/function_input_and_output/curry/README.md) | [![JS](/img/js.png)](/function_input_and_output/curry/solution.js) [![TS](/img/ts.png)](/function_input_and_output/curry/solution.ts) | 88.6% | ![Medium](/img/medium.png)
 &nbsp;
 Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
 Prototype | [Snail](/prototype/snail/README.md) | [![JS](/img/js.png)](/prototype/snail/solution.js) [![TS](/img/ts.png)](/prototype/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
 Prototype | [Instanceof](/prototype/instanceof/README.md) | [![JS](/img/js.png)](/prototype/instanceof/solution.js) [![TS](/img/ts.png)](/prototype/instanceof/solution.ts) | 27.5% | ![Medium](/img/medium.png)
 &nbsp;
-Closure | [Curry](/closure/curry/README.md) | [![JS](/img/js.png)](/closure/curry/solution.js) [![TS](/img/ts.png)](/closure/curry/solution.ts) | 88.6% | ![Medium](/img/medium.png)
 Closure | [Memoize II](/closure/memoize_ii/README.md) | [![JS](/img/js.png)](/closure/memoize_ii/solution.js) [![TS](/img/ts.png)](/closure/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
 &nbsp;
 Time | [Sleep](/time/sleep/README.md) | [![JS](/img/js.png)](/time/sleep/solution.js) [![TS](/img/ts.png)](/time/sleep/solution.ts) | 88.1% | ![Easy](/img/easy.png)
