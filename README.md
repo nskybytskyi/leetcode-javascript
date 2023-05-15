@@ -4,9 +4,9 @@ My exploration of JavaScript and TypeScript through the corresponding LeetCode p
 I partitioned the problems into the following broad topics:
 - closure;
 - basic array transforms;
-- function input and output
+- function input and output;
+- promise;
 - **prototype** related to prototypes and inheritance;
-- **time** related to timeouts and promises;
 - **JSON** related to nested objects;
 - **generator** related to generator and iterators.
 
@@ -30,9 +30,10 @@ Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/pro
 Prototype | [Snail](/prototype/snail/README.md) | [![JS](/img/js.png)](/prototype/snail/solution.js) [![TS](/img/ts.png)](/prototype/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
 Prototype | [Instanceof](/prototype/instanceof/README.md) | [![JS](/img/js.png)](/prototype/instanceof/solution.js) [![TS](/img/ts.png)](/prototype/instanceof/solution.ts) | 27.5% | ![Medium](/img/medium.png)
 &nbsp;
+Promise | [Sleep](/promise/sleep/README.md) | [![JS](/img/js.png)](/promise/sleep/solution.js) [![TS](/img/ts.png)](/promise/sleep/solution.ts) | 88.1% | ![Easy](/img/easy.png)
+&nbsp;
 Closure | [Memoize II](/closure/memoize_ii/README.md) | [![JS](/img/js.png)](/closure/memoize_ii/solution.js) [![TS](/img/ts.png)](/closure/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
 &nbsp;
-Time | [Sleep](/time/sleep/README.md) | [![JS](/img/js.png)](/time/sleep/solution.js) [![TS](/img/ts.png)](/time/sleep/solution.ts) | 88.1% | ![Easy](/img/easy.png)
 Time | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
 Time | [Promise Time Limit](/time/timelimit/README.md) | [![JS](/img/js.png)](/time/timelimit/solution.js) [![TS](/img/ts.png)](/time/timelimit/solution.ts) | 82.4% | ![Easy](/img/easy.png)
 Time | [Promise Pool](/time/pool/README.md) | [![JS](/img/js.png)](/time/pool/solution.js) [![TS](/img/ts.png)](/time/pool/solution.ts) | 81.9% | ![Medium](/img/medium.png)
