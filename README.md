@@ -27,6 +27,7 @@ Function Input and Output | [Curry](/function_input_and_output/curry/README.md) 
 &nbsp;
 Promise | [Sleep](/promise/sleep/README.md) | [![JS](/img/js.png)](/promise/sleep/solution.js) [![TS](/img/ts.png)](/promise/sleep/solution.ts) | 88.1% | ![Easy](/img/easy.png)
 Promise | [Promise Time Limit](/promise/promise_time_limit/README.md) | [![JS](/img/js.png)](/promise/promise_time_limit/solution.js) [![TS](/img/ts.png)](/promise/promise_time_limit/solution.ts) | 82.4% | ![Easy](/img/easy.png)
+Promise | [Promise Pool](/promise/promise_pool/README.md) | [![JS](/img/js.png)](/promise/promise_pool/solution.js) [![TS](/img/ts.png)](/promise/promise_pool/solution.ts) | 81.9% | ![Medium](/img/medium.png)
 &nbsp;
 Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
@@ -36,7 +37,6 @@ Prototype | [Instanceof](/prototype/instanceof/README.md) | [![JS](/img/js.png)]
 Closure | [Memoize II](/closure/memoize_ii/README.md) | [![JS](/img/js.png)](/closure/memoize_ii/solution.js) [![TS](/img/ts.png)](/closure/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
 &nbsp;
 Time | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
-Time | [Promise Pool](/time/pool/README.md) | [![JS](/img/js.png)](/time/pool/solution.js) [![TS](/img/ts.png)](/time/pool/solution.ts) | 81.9% | ![Medium](/img/medium.png)
 Time | [Cache Time Limit](/time/cache/README.md) | [![JS](/img/js.png)](/time/cache/solution.js) [![TS](/img/ts.png)](/time/cache/solution.ts) | 75.6% | ![Medium](/img/medium.png)
 Time | [Design Cancellable Function](/time/cancellable/README.md) | [![JS](/img/js.png)](/time/cancellable/solution.js) [![TS](/img/ts.png)](/time/cancellable/solution.ts) | 41.3% | ![Hard](/img/hard.png)
 &nbsp;
