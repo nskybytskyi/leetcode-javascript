@@ -6,6 +6,7 @@ I partitioned the problems into the following broad topics:
 - basic array transforms;
 - function input and output;
 - promise;
+- time (setTimeout);
 - **prototype** related to prototypes and inheritance;
 - **JSON** related to nested objects;
 - **generator** related to generator and iterators.
@@ -29,6 +30,8 @@ Promise | [Sleep](/promise/sleep/README.md) | [![JS](/img/js.png)](/promise/slee
 Promise | [Promise Time Limit](/promise/promise_time_limit/README.md) | [![JS](/img/js.png)](/promise/promise_time_limit/solution.js) [![TS](/img/ts.png)](/promise/promise_time_limit/solution.ts) | 82.4% | ![Easy](/img/easy.png)
 Promise | [Promise Pool](/promise/promise_pool/README.md) | [![JS](/img/js.png)](/promise/promise_pool/solution.js) [![TS](/img/ts.png)](/promise/promise_pool/solution.ts) | 81.9% | ![Medium](/img/medium.png)
 &nbsp;
+Time (setTimeout) | [Cache With Time Limit](/time/cache_with_time_limit/README.md) | [![JS](/img/js.png)](/time/cache_with_time_limit/solution.js) [![TS](/img/ts.png)](/time/cache_with_time_limit/solution.ts) | 75.6% | ![Medium](/img/medium.png)
+&nbsp;
 Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
 Prototype | [Snail](/prototype/snail/README.md) | [![JS](/img/js.png)](/prototype/snail/solution.js) [![TS](/img/ts.png)](/prototype/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
@@ -37,7 +40,6 @@ Prototype | [Instanceof](/prototype/instanceof/README.md) | [![JS](/img/js.png)]
 Closure | [Memoize II](/closure/memoize_ii/README.md) | [![JS](/img/js.png)](/closure/memoize_ii/solution.js) [![TS](/img/ts.png)](/closure/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
 &nbsp;
 Time | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
-Time | [Cache Time Limit](/time/cache/README.md) | [![JS](/img/js.png)](/time/cache/solution.js) [![TS](/img/ts.png)](/time/cache/solution.ts) | 75.6% | ![Medium](/img/medium.png)
 Time | [Design Cancellable Function](/time/cancellable/README.md) | [![JS](/img/js.png)](/time/cancellable/solution.js) [![TS](/img/ts.png)](/time/cancellable/solution.ts) | 41.3% | ![Hard](/img/hard.png)
 &nbsp;
 JSON | [Deep Equal](/json/deepequal/README.md) | [![JS](/img/js.png)](/json/deepequal/solution.js) [![TS](/img/ts.png)](/json/deepequal/solution.ts) | 33.3% | ![Medium](/img/medium.png)
