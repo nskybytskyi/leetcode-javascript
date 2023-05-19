@@ -31,6 +31,7 @@ Promise | [Promise Time Limit](/promise/promise_time_limit/README.md) | [![JS](/
 Promise | [Promise Pool](/promise/promise_pool/README.md) | [![JS](/img/js.png)](/promise/promise_pool/solution.js) [![TS](/img/ts.png)](/promise/promise_pool/solution.ts) | 81.9% | ![Medium](/img/medium.png)
 &nbsp;
 Time (setTimeout) | [Cache With Time Limit](/time/cache_with_time_limit/README.md) | [![JS](/img/js.png)](/time/cache_with_time_limit/solution.js) [![TS](/img/ts.png)](/time/cache_with_time_limit/solution.ts) | 75.6% | ![Medium](/img/medium.png)
+Time (setTimeout) | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
 &nbsp;
 Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
@@ -39,7 +40,6 @@ Prototype | [Instanceof](/prototype/instanceof/README.md) | [![JS](/img/js.png)]
 &nbsp;
 Closure | [Memoize II](/closure/memoize_ii/README.md) | [![JS](/img/js.png)](/closure/memoize_ii/solution.js) [![TS](/img/ts.png)](/closure/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
 &nbsp;
-Time | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
 Time | [Design Cancellable Function](/time/cancellable/README.md) | [![JS](/img/js.png)](/time/cancellable/solution.js) [![TS](/img/ts.png)](/time/cancellable/solution.ts) | 41.3% | ![Hard](/img/hard.png)
 &nbsp;
 JSON | [Deep Equal](/json/deepequal/README.md) | [![JS](/img/js.png)](/json/deepequal/solution.js) [![TS](/img/ts.png)](/json/deepequal/solution.ts) | 33.3% | ![Medium](/img/medium.png)
