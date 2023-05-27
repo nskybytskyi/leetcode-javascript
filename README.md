@@ -1,7 +1,9 @@
 # leetcode-javascript
+
 My exploration of JavaScript and TypeScript through the corresponding LeetCode problem category.
 
 I partitioned the problems into the following broad topics:
+
 - closure;
 - basic array transforms;
 - function input and output;
@@ -33,6 +35,7 @@ Promise | [Promise Pool](/promise/promise_pool/README.md) | [![JS](/img/js.png)]
 &nbsp;
 Time (setTimeout) | [Cache With Time Limit](/time/cache_with_time_limit/README.md) | [![JS](/img/js.png)](/time/cache_with_time_limit/solution.js) [![TS](/img/ts.png)](/time/cache_with_time_limit/solution.ts) | 75.6% | ![Medium](/img/medium.png)
 Time (setTimeout) | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
+Time (setTimeout) | [Throttle](/time/throttle/README.md) | [![JS](/img/js.png)](/time/throttle/solution.js) [![TS](/img/ts.png)](/time/throttle/solution.ts) | 86.2% | ![Medium](/img/medium.png)
 &nbsp;
 Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
