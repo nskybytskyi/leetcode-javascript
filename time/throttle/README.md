@@ -6,6 +6,8 @@ A throttled function is first called without delay and then, for a time interval
 
 For instance, `t = 50ms`, and the function was called at `30ms`, `40ms`, and `60ms`. The first function call would block calling functions for the following `t` milliseconds. The second function call would save arguments, and the third call arguments should overwrite currently stored arguments from the second call because the second and third calls are called before `80ms`. Once the delay has passed, the throttled function should be called with the latest arguments provided during the delay period, and it should also create another delay period of `80ms + t`.
 
+![Throttle Diagram](throttle_diagram.png)
+
 The above diagram shows how throttle will transform events. Each rectangle represents `100ms` and the throttle time is `400ms`. Each color represents a different set of inputs.
 
 ## Example 1
