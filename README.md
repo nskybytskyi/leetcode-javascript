@@ -1,11 +1,13 @@
 # leetcode-javascript
 My exploration of JavaScript and TypeScript through the corresponding LeetCode problem category.
 
-I partitioned the problems into six broad topics:
+I partitioned the problems into the following broad topics:
+- closure;
+- basic array transforms;
+- function input and output;
+- promise;
+- time (setTimeout);
 - **prototype** related to prototypes and inheritance;
-- **closure** related to nested functions;
-- **time** related to timeouts and promises;
-- **functional** realted to mapreduce utilities;
 - **JSON** related to nested objects;
 - **generator** related to generator and iterators.
 
@@ -16,26 +18,30 @@ Closure | [Counter](/closure/counter/README.md) | [![JS](/img/js.png)](/closure/
 Closure | [Counter II](/closure/counter_ii/README.md) | [![JS](/img/js.png)](/closure/counter_ii/solution.js) [![TS](/img/ts.png)](/closure/counter_ii/solution.ts) | 91.7% | ![Easy](/img/easy.png)
 Closure | [Allow One Function Call](/closure/allow_one_function_call/README.md) | [![JS](/img/js.png)](/closure/allow_one_function_call/solution.js) [![TS](/img/ts.png)](/closure/allow_one_function_call/solution.ts) | 92.0% | ![Easy](/img/easy.png)
 &nbsp;
+Basic Array Transforms | [Apply Transform Over Each Element in Array](/basic_array_transforms/apply_transform_over_each_element_in_array/README.md) | [![JS](/img/js.png)](/basic_array_transforms/apply_transform_over_each_element_in_array/solution.js) [![TS](/img/ts.png)](/basic_array_transforms/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | ![Easy](/img/easy.png)
+Basic Array Transforms | [Filter Elements from Array](/basic_array_transforms/filter_elements_from_array/README.md) | [![JS](/img/js.png)](/basic_array_transforms/filter_elements_from_array/solution.js) [![TS](/img/ts.png)](/basic_array_transforms/filter_elements_from_array/solution.ts) | 83.0% | ![Easy](/img/easy.png)
+Basic Array Transforms | [Array Reduce Transformation](/basic_array_transforms/array_reduce_transformation/README.md) | [![JS](/img/js.png)](/basic_array_transforms/array_reduce_transformation/solution.js) [![TS](/img/ts.png)](/basic_array_transforms/array_reduce_transformation/solution.ts) | 86.1% | ![Easy](/img/easy.png)
+&nbsp;
+Function Input and Output | [Function Composition](/function_input_and_output/function_composition/README.md) | [![JS](/img/js.png)](/function_input_and_output/function_composition/solution.js) [![TS](/img/ts.png)](/function_input_and_output/function_composition/solution.ts) | 89.2% | ![Easy](/img/easy.png)
+Function Input and Output | [Allow One Function Call](/function_input_and_output/allow_one_function_call/README.md) | [![JS](/img/js.png)](/function_input_and_output/allow_one_function_call/solution.js) [![TS](/img/ts.png)](/function_input_and_output/allow_one_function_call/solution.ts) | 92.0% | ![Easy](/img/easy.png)
+Function Input and Output | [Memoize](/function_input_and_output/memoize/README.md) | [![JS](/img/js.png)](/function_input_and_output/memoize/solution.js) [![TS](/img/ts.png)](/function_input_and_output/memoize/solution.ts) | 62.3% | ![Medium](/img/medium.png)
+Function Input and Output | [Curry](/function_input_and_output/curry/README.md) | [![JS](/img/js.png)](/function_input_and_output/curry/solution.js) [![TS](/img/ts.png)](/function_input_and_output/curry/solution.ts) | 88.6% | ![Medium](/img/medium.png)
+&nbsp;
+Promise | [Sleep](/promise/sleep/README.md) | [![JS](/img/js.png)](/promise/sleep/solution.js) [![TS](/img/ts.png)](/promise/sleep/solution.ts) | 88.1% | ![Easy](/img/easy.png)
+Promise | [Promise Time Limit](/promise/promise_time_limit/README.md) | [![JS](/img/js.png)](/promise/promise_time_limit/solution.js) [![TS](/img/ts.png)](/promise/promise_time_limit/solution.ts) | 82.4% | ![Easy](/img/easy.png)
+Promise | [Promise Pool](/promise/promise_pool/README.md) | [![JS](/img/js.png)](/promise/promise_pool/solution.js) [![TS](/img/ts.png)](/promise/promise_pool/solution.ts) | 81.9% | ![Medium](/img/medium.png)
+&nbsp;
+Time (setTimeout) | [Cache With Time Limit](/time/cache_with_time_limit/README.md) | [![JS](/img/js.png)](/time/cache_with_time_limit/solution.js) [![TS](/img/ts.png)](/time/cache_with_time_limit/solution.ts) | 75.6% | ![Medium](/img/medium.png)
+Time (setTimeout) | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
+&nbsp;
 Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
 Prototype | [Snail](/prototype/snail/README.md) | [![JS](/img/js.png)](/prototype/snail/solution.js) [![TS](/img/ts.png)](/prototype/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
 Prototype | [Instanceof](/prototype/instanceof/README.md) | [![JS](/img/js.png)](/prototype/instanceof/solution.js) [![TS](/img/ts.png)](/prototype/instanceof/solution.ts) | 27.5% | ![Medium](/img/medium.png)
 &nbsp;
-Closure | [Curry](/closure/curry/README.md) | [![JS](/img/js.png)](/closure/curry/solution.js) [![TS](/img/ts.png)](/closure/curry/solution.ts) | 88.6% | ![Medium](/img/medium.png)
-Closure | [Memoize](/closure/memoize/README.md) | [![JS](/img/js.png)](/closure/memoize/solution.js) [![TS](/img/ts.png)](/closure/memoize/solution.ts) | 62.3% | ![Medium](/img/medium.png)
 Closure | [Memoize II](/closure/memoize_ii/README.md) | [![JS](/img/js.png)](/closure/memoize_ii/solution.js) [![TS](/img/ts.png)](/closure/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
 &nbsp;
-Time | [Sleep](/time/sleep/README.md) | [![JS](/img/js.png)](/time/sleep/solution.js) [![TS](/img/ts.png)](/time/sleep/solution.ts) | 88.1% | ![Easy](/img/easy.png)
-Time | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
-Time | [Promise Time Limit](/time/timelimit/README.md) | [![JS](/img/js.png)](/time/timelimit/solution.js) [![TS](/img/ts.png)](/time/timelimit/solution.ts) | 82.4% | ![Easy](/img/easy.png)
-Time | [Promise Pool](/time/pool/README.md) | [![JS](/img/js.png)](/time/pool/solution.js) [![TS](/img/ts.png)](/time/pool/solution.ts) | 81.9% | ![Medium](/img/medium.png)
-Time | [Cache Time Limit](/time/cache/README.md) | [![JS](/img/js.png)](/time/cache/solution.js) [![TS](/img/ts.png)](/time/cache/solution.ts) | 75.6% | ![Medium](/img/medium.png)
 Time | [Design Cancellable Function](/time/cancellable/README.md) | [![JS](/img/js.png)](/time/cancellable/solution.js) [![TS](/img/ts.png)](/time/cancellable/solution.ts) | 41.3% | ![Hard](/img/hard.png)
-&nbsp;
-Functional | [Map](/functional/map/README.md) | [![JS](/img/js.png)](/functional/map/solution.js) [![TS](/img/ts.png)](/functional/map/solution.ts) | 89.1% | ![Easy](/img/easy.png)
-Functional | [Reduce](/functional/reduce/README.md) | [![JS](/img/js.png)](/functional/reduce/solution.js) [![TS](/img/ts.png)](/functional/reduce/solution.ts) | 86.1% | ![Easy](/img/easy.png)
-Functional | [Filter](/functional/filter/README.md) | [![JS](/img/js.png)](/functional/filter/solution.js) [![TS](/img/ts.png)](/functional/filter/solution.ts) | 83.0% | ![Easy](/img/easy.png)
-Functional | [Composition](/functional/composition/README.md) | [![JS](/img/js.png)](/functional/composition/solution.js) [![TS](/img/ts.png)](/functional/composition/solution.ts) | 89.2% | ![Easy](/img/easy.png)
 &nbsp;
 JSON | [Deep Equal](/json/deepequal/README.md) | [![JS](/img/js.png)](/json/deepequal/solution.js) [![TS](/img/ts.png)](/json/deepequal/solution.ts) | 33.3% | ![Medium](/img/medium.png)
 JSON | [Stringify](/json/stringify/README.md) | [![JS](/img/js.png)](/json/stringify/solution.js) [![TS](/img/ts.png)](/json/stringify/solution.ts) | 76.8% | ![Medium](/img/medium.png)
