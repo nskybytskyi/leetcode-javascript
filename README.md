@@ -2,16 +2,17 @@
 
 My exploration of JavaScript and TypeScript through the corresponding LeetCode problem category.
 
-I partitioned the problems into the following broad topics:
+The problems are partitioned into the following broad topics:
 
-- closure;
-- basic array transforms;
-- function input and output;
-- promise;
-- time (setTimeout);
-- **prototype** related to prototypes and inheritance;
-- **JSON** related to nested objects;
-- **generator** related to generator and iterators.
+- Closure;
+- Basic Array Transforms;
+- Function Input and Output;
+- Promise;
+- Time (setTimeout);
+- JSON;
+- Utility;
+- This;
+- ...
 
 Topic | Title | Solution | Acceptance | Difficulty
 ------|-------|----------|------------|-----------
@@ -37,18 +38,20 @@ Time (setTimeout) | [Cache With Time Limit](/time/cache_with_time_limit/README.m
 Time (setTimeout) | [Debounce](/time/debounce/README.md) | [![JS](/img/js.png)](/time/debounce/solution.js) [![TS](/img/ts.png)](/time/debounce/solution.ts) | 92.2% | ![Medium](/img/medium.png)
 Time (setTimeout) | [Throttle](/time/throttle/README.md) | [![JS](/img/js.png)](/time/throttle/solution.js) [![TS](/img/ts.png)](/time/throttle/solution.ts) | 86.2% | ![Medium](/img/medium.png)
 &nbsp;
-Prototype | [Last](/prototype/last/README.md) | [![JS](/img/js.png)](/prototype/last/solution.js) [![TS](/img/ts.png)](/prototype/last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
-Prototype | [Group By](/prototype/groupby/README.md) | [![JS](/img/js.png)](/prototype/groupby/solution.js) [![TS](/img/ts.png)](/prototype/groupby/solution.ts) | 86.1% | ![Medium](/img/medium.png)
-Prototype | [Snail](/prototype/snail/README.md) | [![JS](/img/js.png)](/prototype/snail/solution.js) [![TS](/img/ts.png)](/prototype/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
-Prototype | [Instanceof](/prototype/instanceof/README.md) | [![JS](/img/js.png)](/prototype/instanceof/solution.js) [![TS](/img/ts.png)](/prototype/instanceof/solution.ts) | 27.5% | ![Medium](/img/medium.png)
+JSON | [JSON Deep Equal](/json/json_deep_equal/README.md) | [![JS](/img/js.png)](/json/json_deep_equal/solution.js) [![TS](/img/ts.png)](/json/json_deep_equal/solution.ts) | 33.3% | ![Medium](/img/medium.png)
+JSON | [Convert Object to JSON String](/json/convert_object_to_json_string/README.md) | [![JS](/img/js.png)](/json/convert_object_to_json_string/solution.js) [![TS](/img/ts.png)](/json/convert_object_to_json_string/solution.ts) | 76.8% | ![Medium](/img/medium.png)
+JSON | [Flatten Deeply Nested Array](/json/flatten_deeply_nested_array/README.md) | [![JS](/img/js.png)](/json/flatten_deeply_nested_array/solution.js) [![TS](/img/ts.png)](/json/flatten_deeply_nested_array/solution.ts) | 66.5% | ![Medium](/img/medium.png)
 &nbsp;
-Closure | [Memoize II](/closure/memoize_ii/README.md) | [![JS](/img/js.png)](/closure/memoize_ii/solution.js) [![TS](/img/ts.png)](/closure/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
+Utility | [Array of Objects to Matrix](/json/array_of_objects_to_matrix/README.md) | [![JS](/img/js.png)](/json/array_of_objects_to_matrix/solution.js) [![TS](/img/ts.png)](/json/array_of_objects_to_matrix/solution.ts) | TODO% | TODO
+Utility | [Differences Between Two Objects](/json/differences_between_two_objects/README.md) | [![JS](/img/js.png)](/json/differences_between_two_objects/solution.js) [![TS](/img/ts.png)](/json/differences_between_two_objects/solution.ts) | TODO% | TODO
+Utility | [Chunk Array](/json/chunk_array/README.md) | [![JS](/img/js.png)](/json/chunk_array/solution.js) [![TS](/img/ts.png)](/json/chunk_array/solution.ts) | TODO% | TODO
 &nbsp;
-Time | [Design Cancellable Function](/time/cancellable/README.md) | [![JS](/img/js.png)](/time/cancellable/solution.js) [![TS](/img/ts.png)](/time/cancellable/solution.ts) | 41.3% | ![Hard](/img/hard.png)
+This | [Array Prototype Last](/this/array_prototype_last/README.md) | [![JS](/img/js.png)](/this/array_prototype_last/solution.js) [![TS](/img/ts.png)](/this/array_prototype_last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
+This | [Group By](/this/group_by/README.md) | [![JS](/img/js.png)](/this/group_by/solution.js) [![TS](/img/ts.png)](/this/group_by/solution.ts) | 86.1% | ![Medium](/img/medium.png)
 &nbsp;
-JSON | [Deep Equal](/json/deepequal/README.md) | [![JS](/img/js.png)](/json/deepequal/solution.js) [![TS](/img/ts.png)](/json/deepequal/solution.ts) | 33.3% | ![Medium](/img/medium.png)
-JSON | [Stringify](/json/stringify/README.md) | [![JS](/img/js.png)](/json/stringify/solution.js) [![TS](/img/ts.png)](/json/stringify/solution.ts) | 76.8% | ![Medium](/img/medium.png)
-JSON | [Flatten](/json/flatten/README.md) | [![JS](/img/js.png)](/json/flatten/solution.js) [![TS](/img/ts.png)](/json/flatten/solution.ts) | 66.5% | ![Medium](/img/medium.png)
-&nbsp;
-Generator | [Fibonacci](/generator/fibonacci/README.md) | [![JS](/img/js.png)](/generator/fibonacci/solution.js) [![TS](/img/ts.png)](/generator/fibonacci/solution.ts) | 82.5% | ![Easy](/img/easy.png)
-Generator | [Nested Array](/generator/nested/README.md) | [![JS](/img/js.png)](/generator/nested/solution.js) [![TS](/img/ts.png)](/generator/nested/solution.ts) | 78.2% | ![Medium](/img/medium.png)
+ | [Snail](/rest/snail/README.md) | [![JS](/img/js.png)](/rest/snail/solution.js) [![TS](/img/ts.png)](/rest/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
+ | [Instanceof](/rest/instanceof/README.md) | [![JS](/img/js.png)](/rest/instanceof/solution.js) [![TS](/img/ts.png)](/rest/instanceof/solution.ts) | 27.5% | ![Medium](/img/medium.png)
+ | [Memoize II](/rest/memoize_ii/README.md) | [![JS](/img/js.png)](/rest/memoize_ii/solution.js) [![TS](/img/ts.png)](/rest/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
+ | [Design Cancellable Function](/rest/cancellable/README.md) | [![JS](/img/js.png)](/rest/cancellable/solution.js) [![TS](/img/ts.png)](/rest/cancellable/solution.ts) | 41.3% | ![Hard](/img/hard.png)
+ | [Fibonacci](/rest/fibonacci/README.md) | [![JS](/img/js.png)](/rest/fibonacci/solution.js) [![TS](/img/ts.png)](/rest/fibonacci/solution.ts) | 82.5% | ![Easy](/img/easy.png)
+ | [Nested Array](/rest/nested/README.md) | [![JS](/img/js.png)](/rest/nested/solution.js) [![TS](/img/ts.png)](/rest/nested/solution.ts) | 78.2% | ![Medium](/img/medium.png)
