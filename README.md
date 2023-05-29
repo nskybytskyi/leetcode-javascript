@@ -48,9 +48,10 @@ Utility | [Chunk Array](/json/chunk_array/README.md) | [![JS](/img/js.png)](/jso
 &nbsp;
 This | [Array Prototype Last](/this/array_prototype_last/README.md) | [![JS](/img/js.png)](/this/array_prototype_last/solution.js) [![TS](/img/ts.png)](/this/array_prototype_last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 This | [Group By](/this/group_by/README.md) | [![JS](/img/js.png)](/this/group_by/solution.js) [![TS](/img/ts.png)](/this/group_by/solution.ts) | 86.1% | ![Medium](/img/medium.png)
+This | [Check if Object Instance of CLass](/this/check_if_object_instance_of_class/README.md) | [![JS](/img/js.png)](/this/check_if_object_instance_of_class/solution.js) [![TS](/img/ts.png)](/this/check_if_object_instance_of_class/solution.ts) | 27.5% | ![Medium](/img/
 &nbsp;
  | [Snail](/rest/snail/README.md) | [![JS](/img/js.png)](/rest/snail/solution.js) [![TS](/img/ts.png)](/rest/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
- | [Instanceof](/rest/instanceof/README.md) | [![JS](/img/js.png)](/rest/instanceof/solution.js) [![TS](/img/ts.png)](/rest/instanceof/solution.ts) | 27.5% | ![Medium](/img/medium.png)
+medium.png)
  | [Memoize II](/rest/memoize_ii/README.md) | [![JS](/img/js.png)](/rest/memoize_ii/solution.js) [![TS](/img/ts.png)](/rest/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
  | [Design Cancellable Function](/rest/cancellable/README.md) | [![JS](/img/js.png)](/rest/cancellable/solution.js) [![TS](/img/ts.png)](/rest/cancellable/solution.ts) | 41.3% | ![Hard](/img/hard.png)
  | [Fibonacci](/rest/fibonacci/README.md) | [![JS](/img/js.png)](/rest/fibonacci/solution.js) [![TS](/img/ts.png)](/rest/fibonacci/solution.ts) | 82.5% | ![Easy](/img/easy.png)
