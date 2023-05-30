@@ -19,7 +19,6 @@ Topic | Title | Solution | Acceptance | Difficulty
 Cosure | [Create Hello World Function](/closure/create_hello_world_function/README.md) | [![JS](/img/js.png)](/closure/create_hello_world_function/solution.js) [![TS](/img/ts.png)](/closure/create_hello_world_function/solution.ts) | 95.1% | ![Easy](/img/easy.png)
 Closure | [Counter](/closure/counter/README.md) | [![JS](/img/js.png)](/closure/counter/solution.js) [![TS](/img/ts.png)](/closure/counter/solution.ts) | 89.1% | ![Easy](/img/easy.png)
 Closure | [Counter II](/closure/counter_ii/README.md) | [![JS](/img/js.png)](/closure/counter_ii/solution.js) [![TS](/img/ts.png)](/closure/counter_ii/solution.ts) | 91.7% | ![Easy](/img/easy.png)
-Closure | [Allow One Function Call](/closure/allow_one_function_call/README.md) | [![JS](/img/js.png)](/closure/allow_one_function_call/solution.js) [![TS](/img/ts.png)](/closure/allow_one_function_call/solution.ts) | 92.0% | ![Easy](/img/easy.png)
 &nbsp;
 Basic Array Transforms | [Apply Transform Over Each Element in Array](/basic_array_transforms/apply_transform_over_each_element_in_array/README.md) | [![JS](/img/js.png)](/basic_array_transforms/apply_transform_over_each_element_in_array/solution.js) [![TS](/img/ts.png)](/basic_array_transforms/apply_transform_over_each_element_in_array/solution.ts) | 89.1% | ![Easy](/img/easy.png)
 Basic Array Transforms | [Filter Elements from Array](/basic_array_transforms/filter_elements_from_array/README.md) | [![JS](/img/js.png)](/basic_array_transforms/filter_elements_from_array/solution.js) [![TS](/img/ts.png)](/basic_array_transforms/filter_elements_from_array/solution.ts) | 83.0% | ![Easy](/img/easy.png)
@@ -48,7 +47,7 @@ Utility | [Chunk Array](/json/chunk_array/README.md) | [![JS](/img/js.png)](/jso
 &nbsp;
 This | [Array Prototype Last](/this/array_prototype_last/README.md) | [![JS](/img/js.png)](/this/array_prototype_last/solution.js) [![TS](/img/ts.png)](/this/array_prototype_last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 This | [Group By](/this/group_by/README.md) | [![JS](/img/js.png)](/this/group_by/solution.js) [![TS](/img/ts.png)](/this/group_by/solution.ts) | 86.1% | ![Medium](/img/medium.png)
-This | [Check if Object Instance of CLass](/this/check_if_object_instance_of_class/README.md) | [![JS](/img/js.png)](/this/check_if_object_instance_of_class/solution.js) [![TS](/img/ts.png)](/this/check_if_object_instance_of_class/solution.ts) | 27.5% | ![Medium](/img/
+This | [Check if Object Instance of CLass](/this/check_if_object_instance_of_class/README.md) | [![JS](/img/js.png)](/this/check_if_object_instance_of_class/solution.js) [![TS](/img/ts.png)](/this/check_if_object_instance_of_class/solution.ts) | 27.5% | ![Medium](/img/medium.png)
 &nbsp;
  | [Snail](/rest/snail/README.md) | [![JS](/img/js.png)](/rest/snail/solution.js) [![TS](/img/ts.png)](/rest/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
 medium.png)
