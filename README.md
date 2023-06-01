@@ -12,7 +12,7 @@ The problems are partitioned into the following broad topics:
 - JSON;
 - Utility;
 - This;
-- ...
+- Classes;
 
 Topic | Title | Solution | Acceptance | Difficulty
 ------|-------|----------|------------|-----------
@@ -41,17 +41,14 @@ JSON | [JSON Deep Equal](/json/json_deep_equal/README.md) | [![JS](/img/js.png)]
 JSON | [Convert Object to JSON String](/json/convert_object_to_json_string/README.md) | [![JS](/img/js.png)](/json/convert_object_to_json_string/solution.js) [![TS](/img/ts.png)](/json/convert_object_to_json_string/solution.ts) | 76.8% | ![Medium](/img/medium.png)
 JSON | [Flatten Deeply Nested Array](/json/flatten_deeply_nested_array/README.md) | [![JS](/img/js.png)](/json/flatten_deeply_nested_array/solution.js) [![TS](/img/ts.png)](/json/flatten_deeply_nested_array/solution.ts) | 66.5% | ![Medium](/img/medium.png)
 &nbsp;
-Utility | [Array of Objects to Matrix](/json/array_of_objects_to_matrix/README.md) | [![JS](/img/js.png)](/json/array_of_objects_to_matrix/solution.js) [![TS](/img/ts.png)](/json/array_of_objects_to_matrix/solution.ts) | TODO% | TODO
-Utility | [Differences Between Two Objects](/json/differences_between_two_objects/README.md) | [![JS](/img/js.png)](/json/differences_between_two_objects/solution.js) [![TS](/img/ts.png)](/json/differences_between_two_objects/solution.ts) | TODO% | TODO
-Utility | [Chunk Array](/json/chunk_array/README.md) | [![JS](/img/js.png)](/json/chunk_array/solution.js) [![TS](/img/ts.png)](/json/chunk_array/solution.ts) | TODO% | TODO
+Utility | [Array of Objects to Matrix](/json/array_of_objects_to_matrix/README.md) | [![JS](/img/js.png)](/json/array_of_objects_to_matrix/solution.js) [![TS](/img/ts.png)](/json/array_of_objects_to_matrix/solution.ts) | 70.0% | ![Medium](/img/medium.png)
+Utility | [Differences Between Two Objects](/json/differences_between_two_objects/README.md) | [![JS](/img/js.png)](/json/differences_between_two_objects/solution.js) [![TS](/img/ts.png)](/json/differences_between_two_objects/solution.ts) | 83.5% | ![Medium](/img/medium.png)
+Utility | [Chunk Array](/json/chunk_array/README.md) | [![JS](/img/js.png)](/json/chunk_array/solution.js) [![TS](/img/ts.png)](/json/chunk_array/solution.ts) | 86.8% | ![Easy](/img/easy.png)
 &nbsp;
 This | [Array Prototype Last](/this/array_prototype_last/README.md) | [![JS](/img/js.png)](/this/array_prototype_last/solution.js) [![TS](/img/ts.png)](/this/array_prototype_last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 This | [Group By](/this/group_by/README.md) | [![JS](/img/js.png)](/this/group_by/solution.js) [![TS](/img/ts.png)](/this/group_by/solution.ts) | 86.1% | ![Medium](/img/medium.png)
-This | [Check if Object Instance of CLass](/this/check_if_object_instance_of_class/README.md) | [![JS](/img/js.png)](/this/check_if_object_instance_of_class/solution.js) [![TS](/img/ts.png)](/this/check_if_object_instance_of_class/solution.ts) | 27.5% | ![Medium](/img/medium.png)
+This | [Check if Object Instance of Class](/this/check_if_object_instance_of_class/README.md) | [![JS](/img/js.png)](/this/check_if_object_instance_of_class/solution.js) [![TS](/img/ts.png)](/this/check_if_object_instance_of_class/solution.ts) | 27.5% | ![Medium](/img/medium.png)
+This | [Call Function with Custom Context](/this/call_function_with_custom_context/README.md) | [![JS](/img/js.png)](/this/call_function_with_custom_context/solution.js) [![TS](/img/ts.png)](/this/call_function_with_custom_context/solution.ts) | 86.7% | ![Medium](/img/medium.png)
 &nbsp;
- | [Snail](/rest/snail/README.md) | [![JS](/img/js.png)](/rest/snail/solution.js) [![TS](/img/ts.png)](/rest/snail/solution.ts) | 81.0% | ![Medium](/img/medium.png)
-medium.png)
- | [Memoize II](/rest/memoize_ii/README.md) | [![JS](/img/js.png)](/rest/memoize_ii/solution.js) [![TS](/img/ts.png)](/rest/memoize_ii/solution.ts) | 43.0% | ![Hard](/img/hard.png)
- | [Design Cancellable Function](/rest/cancellable/README.md) | [![JS](/img/js.png)](/rest/cancellable/solution.js) [![TS](/img/ts.png)](/rest/cancellable/solution.ts) | 41.3% | ![Hard](/img/hard.png)
- | [Fibonacci](/rest/fibonacci/README.md) | [![JS](/img/js.png)](/rest/fibonacci/solution.js) [![TS](/img/ts.png)](/rest/fibonacci/solution.ts) | 82.5% | ![Easy](/img/easy.png)
- | [Nested Array](/rest/nested/README.md) | [![JS](/img/js.png)](/rest/nested/solution.js) [![TS](/img/ts.png)](/rest/nested/solution.ts) | 78.2% | ![Medium](/img/medium.png)
+Classes | [Event Emitter](/classes/event_emitter/README.md) | [![JS](/img/js.png)](/classes/event_emitter/solution.js) [![TS](/img/ts.png)](/classes/event_emitter/solution.ts) | 85.5% | ![Medium](/img/medium.png)
+Classes | [Array Wrapper](/classes/array_wrapper/README.md) | [![JS](/img/js.png)](/classes/array_wrapper/solution.js) [![TS](/img/ts.png)](/classes/array_wrapper/solution.ts) | 90.8% | ![Easy](/img/easy.png)
