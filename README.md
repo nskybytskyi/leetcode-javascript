@@ -41,9 +41,9 @@ JSON | [JSON Deep Equal](/json/json_deep_equal/README.md) | [![JS](/img/js.png)]
 JSON | [Convert Object to JSON String](/json/convert_object_to_json_string/README.md) | [![JS](/img/js.png)](/json/convert_object_to_json_string/solution.js) [![TS](/img/ts.png)](/json/convert_object_to_json_string/solution.ts) | 76.8% | ![Medium](/img/medium.png)
 JSON | [Flatten Deeply Nested Array](/json/flatten_deeply_nested_array/README.md) | [![JS](/img/js.png)](/json/flatten_deeply_nested_array/solution.js) [![TS](/img/ts.png)](/json/flatten_deeply_nested_array/solution.ts) | 66.5% | ![Medium](/img/medium.png)
 &nbsp;
-Utility | [Array of Objects to Matrix](/json/array_of_objects_to_matrix/README.md) | [![JS](/img/js.png)](/json/array_of_objects_to_matrix/solution.js) [![TS](/img/ts.png)](/json/array_of_objects_to_matrix/solution.ts) | 70.0% | ![Medium](/img/medium.png)
-Utility | [Differences Between Two Objects](/json/differences_between_two_objects/README.md) | [![JS](/img/js.png)](/json/differences_between_two_objects/solution.js) [![TS](/img/ts.png)](/json/differences_between_two_objects/solution.ts) | 83.5% | ![Medium](/img/medium.png)
-Utility | [Chunk Array](/json/chunk_array/README.md) | [![JS](/img/js.png)](/json/chunk_array/solution.js) [![TS](/img/ts.png)](/json/chunk_array/solution.ts) | 86.8% | ![Easy](/img/easy.png)
+Utility | [Array of Objects to Matrix](/utility/array_of_objects_to_matrix/README.md) | [![JS](/img/js.png)](/utility/array_of_objects_to_matrix/solution.js) [![TS](/img/ts.png)](/utility/array_of_objects_to_matrix/solution.ts) | 70.0% | ![Medium](/img/medium.png)
+Utility | [Differences Between Two Objects](/utility/differences_between_two_objects/README.md) | [![JS](/img/js.png)](/utility/differences_between_two_objects/solution.js) [![TS](/img/ts.png)](/utility/differences_between_two_objects/solution.ts) | 83.5% | ![Medium](/img/medium.png)
+Utility | [Chunk Array](/utility/chunk_array/README.md) | [![JS](/img/js.png)](/utility/chunk_array/solution.js) [![TS](/img/ts.png)](/utility/chunk_array/solution.ts) | 86.8% | ![Easy](/img/easy.png)
 &nbsp;
 This | [Array Prototype Last](/this/array_prototype_last/README.md) | [![JS](/img/js.png)](/this/array_prototype_last/solution.js) [![TS](/img/ts.png)](/this/array_prototype_last/solution.ts) | 80.5% | ![Easy](/img/easy.png)
 This | [Group By](/this/group_by/README.md) | [![JS](/img/js.png)](/this/group_by/solution.js) [![TS](/img/ts.png)](/this/group_by/solution.ts) | 86.1% | ![Medium](/img/medium.png)
